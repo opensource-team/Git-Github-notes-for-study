@@ -9,6 +9,6 @@
 
 [陈立千](https://github.com/CharlesianMotion)
 
-[庞蕴名] (https://github.com/bigbeats)
+[庞蕴名](https://github.com/bigbeats)
 
 [徐道诚](https://github.com/xdc0527)
