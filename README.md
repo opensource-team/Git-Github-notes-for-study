@@ -65,9 +65,17 @@
 ## :computer:badge文件贡献：
 
 - [CODE_OF_CONDUCT](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/CODE_OF_CONDUCT.md) : 姜冉
+
 - [CODE_STYLE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/CODE_STYLE.md) : 姜鑫宇
+
 - [CONTRIBUTING](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/CONTRIBUTING.md) : 徐道诚
+
 - [ISSUE_TEMPLATE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/ISSUE_TEMPLATE.md) : 何政
+
 - [LICENSE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/LICENSE) : 何政
+
 - [README](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/README.md) : 姜冉
+
 - [特训营总项目列表小组成员更新](https://github.com/kaiyuanshe/Open-source-training-camp/blob/master/Projects.md) : 庞蕴名
+
+  ![badge](https://github.com/Jericaran/Git-Github-notes-for-study/blob/master/images-folder/readme-badge.png)
