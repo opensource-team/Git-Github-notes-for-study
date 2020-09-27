@@ -68,8 +68,6 @@
 - [CODE_STYLE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/CODE_STYLE.md) : 姜鑫宇
 - [CONTRIBUTING](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/CONTRIBUTING.md) : 徐道诚
 - [ISSUE_TEMPLATE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/ISSUE_TEMPLATE.md) : 何政
-- [LICENSE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/LICENSE) :何政
+- [LICENSE](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/LICENSE) : 何政
 - [README](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/README.md) : 姜冉
-- [特训营总项目列表小组成员更新](https://github.com/kaiyuanshe/Open-source-training-camp/blob/master/Projects.md) :庞蕴名
-
-![image-20200926213919649](C:\Users\姜冉\AppData\Roaming\Typora\typora-user-images\image-20200926213919649.png)
+- [特训营总项目列表小组成员更新](https://github.com/kaiyuanshe/Open-source-training-camp/blob/master/Projects.md) : 庞蕴名
