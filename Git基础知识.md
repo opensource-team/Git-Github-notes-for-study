@@ -106,6 +106,7 @@ object。
 
 
 运⾏ git commit -m 'update'
+
 \1. Git⾸先根据当前的索引⽣产⼀个tree object，充当新提交的⼀个快照。
 \2. 创建⼀个新的commit object，将这次commit的信息储存起来，并且parent指向上⼀个commit，
 组成⼀条链记录变更历史。
