@@ -30,7 +30,7 @@
 
 贡献：姜冉
 
-[basic_knowlegde_of_Git](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/basic_knowlegde_of_Git.md)
+[Git基础知识](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/Git基础知识.md)
 
 #### 2、Git初始化
 
